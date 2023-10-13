@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "G\u00c3\u00b3mez",
+        "edicion": "2\u00c2\u00b0",
+        "titulo": "Historia de la Ciencia",
+        "isbn": 9876543210123
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "P\u00c3\u00a9rez",
+        "edicion": "3\u00c2\u00b0",
+        "titulo": "El Jard\u00c3\u00adn Secreto",
+        "isbn": 5678901234567
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Gonz\u00c3\u00a1lez",
+        "edicion": "4\u00c2\u00b0",
+        "titulo": "La Sombra del Viento",
+        "isbn": 3456789012345
+    },
+    {
+        "nombre": "Mar\u00c3\u00ada",
+        "apellido": "L\u00c3\u00b3pez",
+        "edicion": "5\u00c2\u00b0",
+        "titulo": "Cien A\u00c3\u00b1os de Soledad",
+        "isbn": 2345678901234
+    },
+    {
+        "nombre": "W",
+        "apellido": "E",
+        "edicion": "R",
+        "titulo": "A",
+        "isbn": 8547963211365
+    }
+]
